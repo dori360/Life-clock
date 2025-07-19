@@ -17,7 +17,7 @@ This project aims to foster mindfulness about time and encourage intentional liv
 
 ### Main Interface
 
-![Main Interface](https://placehold.co/600x400/2D3142/FFFFFF?text=Main+Interface)
+![Main Interface](https://i.ibb.co/FFfHcfq/Generated-Image-July-19-2025-4-16-PM.jpg)  
 
 The central interface displays a visually striking pie chart that dynamically updates to show the proportion of your life that has elapsed versus what remains. The percentage is displayed prominently in the center, providing an immediate understanding of your life's progression.
 
