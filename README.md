@@ -23,13 +23,13 @@ The central interface displays a visually striking pie chart that dynamically up
 
 ### Birth Date Selection
 
-![Birth Date Selection](https://i.ibb.co/gZkTZC1s/Generated-Image-July-19-2025-4-17-PM-3.jpg)
+![Birth Date Selection]()
 
 Users begin by selecting their birth date through an intuitive date picker. This crucial piece of information serves as the foundation for all subsequent calculations.
 
 ### Remaining Time Display
 
-![Remaining Time Display](https://i.ibb.co/mr31jgvx/Generated-Image-July-19-2025-4-22-PM-2.jpg)
+![Remaining Time Display]()
 
 The application presents your remaining time in multiple formats:
 - **Years**: The number of years you have left based on average life expectancy
@@ -41,7 +41,7 @@ Each value is presented with both integer and decimal components, allowing for p
 
 ### Color-Coded Visualization
 
-![Color Progression](https://i.ibb.co/60BzLtck/Generated-Image-July-19-2025-4-22-PM.jpg)
+![Color Progression]()
 
 The pie chart's color dynamically shifts along a spectrum from green (mostly remaining) to red (mostly elapsed), providing an intuitive visual cue about your life's progression.
 
