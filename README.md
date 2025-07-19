@@ -1,6 +1,6 @@
 # Life Clock
 
-![Life Clock Banner](https://placehold.co/1200x300/2D3142/FFFFFF?text=Life+Clock&font=montserrat)
+![Life Clock Banner](https://i.ibb.co/FFfHcfq/Generated-Image-July-19-2025-4-16-PM.jpg)
 
 ## Overview
 
@@ -17,19 +17,19 @@ This project aims to foster mindfulness about time and encourage intentional liv
 
 ### Main Interface
 
-![Main Interface](https://i.ibb.co/FFfHcfq/Generated-Image-July-19-2025-4-16-PM.jpg)  
+![Main Interface](https://i.ibb.co/hxrc1k9T/Generated-Image-July-19-2025-4-17-PM.jpg)  
 
 The central interface displays a visually striking pie chart that dynamically updates to show the proportion of your life that has elapsed versus what remains. The percentage is displayed prominently in the center, providing an immediate understanding of your life's progression.
 
 ### Birth Date Selection
 
-![Birth Date Selection](https://placehold.co/600x400/2D3142/FFFFFF?text=Birth+Date+Selection)
+![Birth Date Selection](https://i.ibb.co/gZkTZC1s/Generated-Image-July-19-2025-4-17-PM-3.jpg)
 
 Users begin by selecting their birth date through an intuitive date picker. This crucial piece of information serves as the foundation for all subsequent calculations.
 
 ### Remaining Time Display
 
-![Remaining Time Display](https://placehold.co/600x400/2D3142/FFFFFF?text=Time+Remaining+Panel)
+![Remaining Time Display](https://i.ibb.co/gZkTZC1s/Generated-Image-July-19-2025-4-17-PM-3.jpg))
 
 The application presents your remaining time in multiple formats:
 - **Years**: The number of years you have left based on average life expectancy
