@@ -23,7 +23,7 @@ The central interface displays a visually striking pie chart that dynamically up
 
 ### Birth Date Selection
 
-!()
+!(Birth Date Selection)
 
 Users begin by selecting their birth date through an intuitive date picker. This crucial piece of information serves as the foundation for all subsequent calculations.
 
